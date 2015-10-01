@@ -1,0 +1,14 @@
+*~
+*.geo
+*.msh
+*.xml
+results/
+*.aux
+*.log
+*.dvi
+*.pyc
+*.pyc
+.*
+!.gitignore
+!mesh/template/*.geo
+tmp/

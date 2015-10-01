@@ -1,0 +1,11 @@
+
+Mesh.VolumeFaces = 1;
+Mesh.SurfaceFaces = 1;
+General.Clip0A = 1;
+Mesh.Clip = 1;
+General.ClipWholeElements = 1;
+General.RotationCenterGravity = 0;
+General.RotationCenterX = 0;
+General.RotationCenterY = 0;
+General.RotationCenterZ = 0;
+General.Orthographic = 0;
